@@ -1,3 +1,9 @@
+
 .price {
   color: red;
+}
+
+.img01 {
+  height: 180px;
+  object-fit: contain;;
 }
